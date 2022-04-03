@@ -18,9 +18,9 @@ function App() {
     <div className="App">
    <Task2 />
     </div>
-    {/* <div className="App">
+    <div className="App">
    <Task3 />
-    </div> */}
+    </div>
  
     </div>
    
