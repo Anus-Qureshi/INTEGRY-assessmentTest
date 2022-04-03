@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Task1 from "./components/task1.js"
-import Task2 from "./components/task2.js"
-import Task3 from "./components/task3.js"
+
 
 
 
@@ -15,13 +14,13 @@ function App() {
    
    <Task1 />
     </div>
-    <div className="App">
+    {/* <div className="App">
    <Task2 />
     </div>
     <div className="App">
    <Task3 />
     </div>
- 
+  */}
     </div>
    
   );

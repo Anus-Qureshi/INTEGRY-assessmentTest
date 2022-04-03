@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./task1.css"
+
 const Task1 = () => {
     const [char, setChar] = useState("");
    const  myArray = Array.from(char);
