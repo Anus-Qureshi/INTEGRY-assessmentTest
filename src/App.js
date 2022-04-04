@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Task1 from "./components/task1.js"
 import Task2 from "./components/task2.js"
+import Task3 from "./components/task3.js"
 
 
 

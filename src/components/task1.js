@@ -9,7 +9,7 @@ const listItems = numbers.map((numbers,i) =>
    );  
     return (
       <div className="home">
-     <h1 className="head"> This is task1 Component </h1>
+     <h1 className="head"> This is task1 </h1>
      <p className="des">Enter Any Text to Count the character</p>
     <form >
       <label className="des">Enter your Charater:
